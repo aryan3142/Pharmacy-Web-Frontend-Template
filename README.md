@@ -5,7 +5,7 @@ The PNG (screencapture.png) of the developed page is present in the repository. 
 
 Best coding / optimization practices you are familiar with has been followed while developing this. The implementation is pixel perfect as much possible, and it has been made sure to use only DIVs (no Tables\no flex).
 
-## Approach :
+## Approach:
 1. Created all static skeleton html page.
 2. Made it pixel perfect and cross browser. 
 You can use this Chrome plugin (https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en).
