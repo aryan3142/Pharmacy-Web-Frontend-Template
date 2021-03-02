@@ -14,4 +14,4 @@ You can use this Chrome plugin (https://chrome.google.com/webstore/detail/perfec
 1. There is a header section on the page that will work like a slider.
 2. Images/Videos section have pop-up to play video or images. Implement the popup for photos and videos section. 
 
-![alt text](<https://github.com/ryan3142/Pharmacy-Web-Frontend-Template/blob/main/screencapture.png>)
+![alt text](<https://github.com/ryan3142/Pharmacy-Web-Frontend-Template/blob/master/screencapture.png>)
